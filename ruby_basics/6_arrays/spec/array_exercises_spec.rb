@@ -25,7 +25,7 @@ RSpec.describe 'Array Exercises' do
     end
   end
 
-  describe 'first index exercise' do
+  describe 'first element exercise' do
 
     it 'returns the first index of an array of numbers' do
       expect(first_index([2, 4, 6, 8, 10])).to eq(2)
@@ -36,7 +36,7 @@ RSpec.describe 'Array Exercises' do
     end
   end
 
-  describe 'last three elements exercise' do
+  describe 'third element exercise' do
 
     it 'returns an array of the last three elements' do
       expect(last_three_elements([2, 4, 6, 8, 10])).to eq([6, 8, 10])
@@ -47,7 +47,7 @@ RSpec.describe 'Array Exercises' do
     end
   end
 
-  describe 'second index exercise' do
+  describe 'last three elements exercise' do
 
     it 'returns the second index of an array' do
       expect(second_index([2, 4, 6, 8, 10])).to eq(6)
