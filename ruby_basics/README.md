@@ -24,7 +24,7 @@ These exercises are designed to compliment the [Ruby Basic lessons](https://www.
 
 #### 7.Hashes
 
-- [ ] Hash Exercises 
+- [x] Hash Exercises 
 
 #### 8.Methods
 
