@@ -24,7 +24,11 @@ These exercises are designed to compliment the [Ruby Basic lessons](https://www.
 
 #### 7.Hashes
 
+<<<<<<< HEAD
 - [x] Hash Exercises 
+=======
+- [ ] Hash Exercises 
+>>>>>>> origin/array-exercises
 
 #### 8.Methods
 
