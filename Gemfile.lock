@@ -2,9 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.4.4)
-    linguistics (2.1.0)
-      loggability (~> 0.11)
-    loggability (0.18.2)
     rspec (3.9.0)
       rspec-core (~> 3.9.0)
       rspec-expectations (~> 3.9.0)
@@ -23,7 +20,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  linguistics
   rspec (~> 3.9)
 
 BUNDLED WITH
